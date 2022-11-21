@@ -1,0 +1,311 @@
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top ">
+  <div class="container-fluid">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav mx-auto">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#jurusan">BDP | PM</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#skill">Skill</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#pekerjaan">Pekerjaan</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#progam">Progam</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#guru">Guru</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<div class="jumbotron">
+  <img src="assets/img/0b34624c-4243-4890-9873-cf831e362bc7.png" alt="" width="450px">
+  <div class="tulisan text-center">
+  <p>BISNIS DARING DAN PEMASARAN</p>
+  <h4>SMK NEGERI 1 PURWOKERTO</h4>
+  </div>
+</div>
+
+<div class="container mt-2 se" id="jurusan" data-aos="zoom-in-up" data-aos-duration ="1600">
+        <div class="text-center">
+          <div class="col mt-5">
+            <h3>Jurusan BDP | PM</h3>
+            <h3>--</h3>
+          </div>
+        </div>
+
+        <div class="row justify-content-center p-5 text-center">
+      <div class="col-12 text-justify fs18" data-aos="zoom-in-up" data-aos-duration ="1800">
+        <p>Bisnis Daring dan Pemasaran (BDP) atau Pemasaran (PM) di SMKN 1 Purwokerto merupakan salah satu program keahlian dalam kelompok bisnis
+dan manajemen yang jurusan yang mempelajari tentang bidang bisnis dan marketing, baik secara online maupun offline</p>
+      </div>
+      <div class="col-12 text-justify fs18" data-aos="zoom-in-up" data-aos-duration ="1800">
+        <p>Siswa Kualifikasi Program Keahlian Bisnis Daring dan Pemasaran (BDP) memiliki peran kerja yakni memiliki kemampuan bisnis dan komunikasi
+untuk bekerja di usaha bisnis dan/atau manajemen, memiliki pengalaman bidang bisnis dan manajemen dengan menerapkan kompetensi keahlian,
+memiliki kemampuan Pengelolaan Bisnis dan Bisnis Daring untuk bekerja di usaha bisnis dan/atau manajemen serta memiliki mampuan Pengelolaan
+Pemasaran dan Pemasaran online untuk bekerja di usaha bisnis dan/atau manajemen.</p>
+      </div>
+</div>
+</div>
+    <div class="container mtxxx" id="skill" >
+        <div class="text-center" data-aos="fade-down" data-aos-duration="1800">
+          <div class="col-md mt-2">
+            <h3>Hal yang dipelajari</h3>
+            <h3>--</h3>
+          </div>
+        </div>
+    </div>
+    <div class="container">
+    <div class="row justify-content-center">
+  <div class="col-md-4 text-center pt6"  data-aos="fade-right"data-aos-duration="1800">
+   <img src="assets/img/komunikasi.png" alt="" width="72" >
+   <p class="pt1">Komunikasi</p>
+  </div>
+  <div class="col-md-4 text-center pt6" data-aos="zoom-in-up"data-aos-duration="1800">
+   <img src="assets/img/gadgets.png" alt="" width="72" >
+   <p class="pt1">Simulasi Digital</p>
+  </div>
+  <div class="col-md-4 text-center pt6" data-aos="fade-left"data-aos-duration="1800">
+   <img src="assets/img/growth.png" alt="" width="72" >
+   <p class="pt1">Marketing</p>
+  </div>
+  <div class="col-md-4 text-center pt6"  data-aos="fade-right"data-aos-duration="1800">
+   <img src="assets/img/store.png" alt="" width="72" >
+   <p class="pt1">Pengetahuan Ritel</p>
+  </div>
+  <div class="col-md-4 text-center pt6" data-aos="zoom-in-up"data-aos-duration="1800">
+   <img src="assets/img/Frame.png" alt="" width="72" >
+   <p class="pt1">Bisnis Online</p>
+  </div>
+  <div class="col-md-4 text-center pt6" data-aos="fade-left"data-aos-duration="1800">
+   <img src="assets/img/bisnis online 1.png" alt="" width="74" >
+   <p class="pt1">Sosial Media</p>
+  </div>
+  <div class="col text-center pt6" data-aos="zoom-in-up" data-aos-duration="1800">
+   <img src="assets/img/canva.png" alt="" width="72" >
+   <p class="pt1">Desain Canva</p>
+  </div>
+</div>
+</div>
+
+ <div class="belajar mtxxx">
+    <div class="container" id="pekerjaan">
+        <div class="text-center" data-aos="fade-down" data-aos-duration="1800">
+          <div class="col-md mt-2">
+            <h3>Contoh Pekerjaan</h3>
+            <h3>--</h3>
+          </div>
+        </div>
+         <div class="row justify-content-center">
+        <div class="col-md-4 text-center pt6"  data-aos="fade-right"data-aos-duration="1800">
+   <img src="assets/img/tenagapemasaransmc.jpg" alt="" width="300" height="200" style="border-radius: 20px;">
+   <p class="pt1">Tenaga Pemasaran</p>
+  </div>
+  <div class="col-md-4 text-center pt6" data-aos="zoom-in-up"data-aos-duration="1800">
+   <img src="assets/img/pramuniagasmc.jpg" alt="" width="300" height="200" style="border-radius: 20px;">
+   <p class="pt1">Pramuniaga</p>
+  </div>
+  <div class="col-md-4 text-center pt6" data-aos="fade-left"data-aos-duration="1800">
+   <img src="assets/img/tenagapembeliansmc.jpg" alt="" width="300" height="200" style="border-radius: 20px;">
+   <p class="pt1">Tenaga Pembelian</p>
+  </div>
+  <div class="col-md-4 text-center pt6"  data-aos="fade-right"data-aos-duration="1800">
+   <img src="assets/img/social-media.jpg" alt="" width="300" height="200" style="border-radius: 20px;">
+   <p class="pt1">Sosial Media Marketing</p>
+  </div>
+  <div class="col-md-4 text-center pt6" data-aos="zoom-in-up"data-aos-duration="1800">
+   <img src="assets/img/kasirsmc.jpg" alt="" width="300" height="200" style="border-radius: 20px;">
+   <p class="pt1">Kasir</p>
+  </div>
+  <div class="col-md-4 text-center pt6" data-aos="fade-left"data-aos-duration="1800">
+   <img src="assets/img/wiraswastasmc.jpg" width="300" height="200" style="border-radius: 20px;">
+   <p class="pt1">Wiraswasta</p>
+  </div>
+    </div>
+</div>
+
+
+<div class=" belajar mtxxx" id="progam">
+  <div class="container">
+        <div class="text-center" data-aos="fade-down" data-aos-duration="1800">
+          <div class="col mt-2">
+            <h3>Progam Unggulan BDP</h3>
+            <h3>--</h3>
+          </div>
+        </div>
+         <div class="row justify-content-center">
+        <div class="col-md-4 text-center pt6"  data-aos="fade-right"data-aos-duration="1800">
+   <img src="assets/img/ALFAMART_LOGO_BARU.png" alt="" width="300" height="200" style="border-radius: 20px;">
+   <p class="pt1">Alfamart</p>
+  </div>
+  <div class="col-md-4 text-center pt6" data-aos="zoom-in-up"data-aos-duration="1800">
+   <img src="assets/img/direectselling.png" alt="" width="300" height="200" style="border-radius: 20px;">
+   <p class="pt1">Direct Selling</p>
+  </div>
+  <div class="col-md-4 text-center pt6" data-aos="fade-left"data-aos-duration="1800" style="border-radius: 20px;">
+   <img src="assets/img/llus.png" alt="" width="300" height="200" >
+   <p class="pt1">Lulus 100% USK/Kompeten</p>
+  </div>
+    </div>
+</div>
+</div>
+
+<div class="belajar mtxxx">
+    <div class="container" id="guru">
+        <div class="text-center" data-aos="fade-down" data-aos-duration="1800">
+          <div class="col mt-2">
+            <h3>Tenaga Pengajar</h3>
+            <h3>--</h3>
+          </div>
+        </div>
+         <div class="row justify-content-center">
+    <div class="col-12 pt6"  data-aos="flip-up"data-aos-duration="1800">
+      <div class="text-center">
+     <p class="fs18 fw-bold"> K3 Pemasaran</p>
+   <img src="assets/img/bu raras.jpg" width="300" alt="" class="rounded-circle" >
+   <p class="pt1 fs-5">Raras Nuring S, SE.</p>
+</div>
+   <div style="text-align: center;">
+    Mapel : <br>
+    - Penataan Produk (XI BDP) <br>
+    - Dasar-Dasar Keahlian (X PM) <br>
+    - Pengelolaan Bisnis Ritel (XII BDP) <br>
+    </div>
+    <br>
+    <div style="text-align: center;">
+    Motto : <br>
+    <i>"Berusaha bermanfaat untuk diri
+sendiri dan orang lain"</i>
+    </div>
+    <br>
+    <div style="text-align: center;">
+    Sosial Media : <br>
+    <strong>IG : @sasongkowatiraras</strong>
+    </div>
+  </div>
+
+  <div class="col-md-3 pt6"  data-aos="fade-right"data-aos-duration="1800">
+   <div class="text-center">
+   <img src="assets/img/bu farida.jpg" width="300" alt="" class="rounded-circle" >
+   <p class="pt1 fs-5">Farida Kurniati, S.E.</p>
+</div>
+   <div style="text-align: center;">
+    Mapel : <br>
+    - Bisnis Online (XI & XII BDP)<br>
+    - Administrasi Transaksi (XI BDP)<br>
+    - Penataan Produk (XII BDP) <br>
+    </div>
+     <br>
+    <div style="text-align: center;">
+    Motto : <br>
+    <i>"Be Humble"</i>
+    </div>
+    <br>
+    <div style="text-align: center;">
+    Sosial Media : <br>
+    <strong>FB : Fara Lizou Dena</strong>
+    </div>
+  </div>
+
+  <div class="col-md-3 pt6"  data-aos="flip-up"data-aos-duration="1800">
+   <div class="text-center">
+   <img src="assets/img/bu warsiti.jpg" width="300" alt="" class="rounded-circle" >
+   <p class="pt1 fs-5">Dra. Warsiti </p>
+</div>
+   <div style="text-align: center;">
+    Mapel : <br>
+    - Dasar-Dasar Pemasaran (X PM ) <br>
+    - Administrasi Transaksi (XI & XII BDP) <br>
+    - Penataan Produk (XII BDP) <br>
+    </div>
+    <br>
+    <div style="text-align: center;">
+    Motto : <br>
+    <i>"Bekerja Untuk Ibadah"</i>
+    </div>
+  </div>
+
+  <div class="col-md-3 pt6"  data-aos="flip-up"data-aos-duration="1800">
+   <div class="text-center">
+   <img src="assets/img/bu.jpg" width="300" alt="" class="rounded-circle" >
+   <p class="pt1 fs-5">Indwi Kurniati, S.Pd.</p>
+</div>
+   <div style="text-align: center;">
+    Mapel : <br>
+    - Pengelolaan Bisnis Ritel (XI BDP) <br>
+    - Bisnis Online (XII BDP) <br>
+    </div>
+    <br>
+    <div style="text-align: center;">
+    Motto : <br>
+    <i>"Mulailah Dengan Bismillah"</i>
+    </div>
+    <br>
+    <div style="text-align: center;">
+    Sosial Media : <br>
+    <strong>IG : @toko_alayya</strong>
+    </div>
+  </div>
+
+  <div class="col-md-3 pt6"  data-aos="fade-left"data-aos-duration="1800">
+   <div class="text-center">
+   <img src="assets/img/pak yoyoyok.jpg" width="300" alt="" class="rounded-circle" >
+   <p class="pt1 fs-5">Drs. Yoyok KGBS</p>
+</div>
+   <div style="text-align: center;">
+    Mapel : <br>
+    - PKK <br>
+    - Pengelolaan Bisnis Ritel <br>
+    </div>
+     <br>
+    <div style="text-align: center;">
+    Motto : <br>
+    <i>"Tingkatkan Beribadah"</i>
+    </div>
+    <br>
+    <div style="text-align: center;">
+    Sosial Media : <br>
+    <strong>IG: kushandoyoyoyok</strong>
+    </div>
+  </div>
+
+    </div>
+</div>
+
+<footer>
+  <div class="container mtxxx putih ">
+    <div class="p-5 text-center"data-aos="fade-right"data-aos-duration="1800">
+     <h2>KELOMPOK 7 JAYA JAYA JAYA</h2>
+    </div>
+    <div class="nama row justify-content-between">
+      <div class="col-md-3" style="padding-left: 5%;"data-aos="fade-right"data-aos-duration="1800">
+      <h2>Dibuat oleh :</h2>
+      <p>Hadaya Imtiyaza Syarifa</p>
+      <p>Naysila Adinda Rohkmah</p>
+      <p>Rizqy Bagus Saputra</p>
+      <p>Safa Ainunisa</p>
+      </div>
+
+      <div class="col-md-3"data-aos="fade-right"data-aos-duration="1800">
+        <h2>Sosial Media</h2>
+       <p>IG : yzf81d</p>
+       <p>IG : nwaysla</p>
+       <p>IG : rizqybs24</p>
+       <p>IG : sfaannisa_</p>
+      </div>
+      <div class="col-md-3"data-aos="fade-right"data-aos-duration="1800" >
+      </div>
+      <div class="col-md-3"data-aos="fade-right"data-aos-duration="1800">
+                <img src="assets/img/z.jpg" alt="" width="300" style="border-radius:20px ;">
+      </div>
+
+    </div>
+  </div>
+</footer>
